@@ -12,10 +12,10 @@ This script updates the avatar of a Discord bot. It uses the `fs`, `node-fetch`,
 
 1. Make sure you have Node.js installed on your machine.
 2. Install the dependencies by running `npm install fs node-fetch readline`.
-3. Name it to `'avatar.gif'` with the path to your new avatar file in the `avatarFilePath` variable.
-4. Run the script using `node script.js`.
+3. make sure to name it `avatar.gif` ( unless you know what your doing ) 
+4. Run the script using `node index.js`.
 5. When prompted, enter your Discord bot token.
 
 ## Functionality
 
-Designed to update your bot avatar with any GIF ( this was made when it first game out ) .
+Designed to update your bot avatar with any GIF ( this was made when it first came out ) .
